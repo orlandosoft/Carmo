@@ -6,7 +6,8 @@
 package carmo;
 
 /**
- *
+ *puto el que lo lea chinguen su madre perros uauauuauauau
+ * 
  * @author orlandos
  */
 public class Carmo {
